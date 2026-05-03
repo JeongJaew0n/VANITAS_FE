@@ -1,7 +1,8 @@
 # VANITAS_FE
 
-VANITAS.SHOP 게임 감성 흑백 파스텔톤 종합 쇼핑몰 프론트엔드입니다. `docs/init.md`와
-`docs/shopping_mall_game.html`을 기준으로 React 19 + TypeScript + Vite 앱을 구성했습니다.
+VANITAS.SHOP 게임 감성 흑백 파스텔톤 종합 쇼핑몰 프론트엔드입니다. React 19,
+TypeScript, Vite 기반으로 홈 화면, 상품/카테고리 mock API, 장바구니와 찜 로컬 상태를
+구성했습니다.
 
 ## 실행
 
@@ -47,8 +48,7 @@ VITE_USE_MOCK=true
 
 ## 추가 라이브러리
 
-- `@tanstack/react-query-devtools`: `docs/init.md`의 개발 환경 Query Devtools 요구사항을 위해
-  TanStack Query와 함께 사용합니다.
+- `@tanstack/react-query-devtools`: 개발 환경에서 TanStack Query 캐시와 요청 상태를 확인하기 위해 사용합니다.
 
 ## 검증
 
