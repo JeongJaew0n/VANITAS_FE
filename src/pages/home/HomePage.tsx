@@ -23,10 +23,10 @@ const editorialCards = [
 export function HomePage() {
   return (
     <main>
-      <title>MARU.SHOP — 오늘의 발견</title>
+      <title>VANITAS.SHOP — 오늘의 발견</title>
       <meta
         name="description"
-        content="게임 감성 흑백 파스텔톤 종합 쇼핑몰 MARU.SHOP의 오늘의 상품과 카테고리."
+        content="게임 감성 흑백 파스텔톤 종합 쇼핑몰 VANITAS.SHOP의 오늘의 상품과 카테고리."
       />
       <HudBar />
       <HeroSection />

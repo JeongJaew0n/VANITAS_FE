@@ -20,7 +20,7 @@ export const useWishlistStore = create<WishlistState>()(
       has: (productId) => get().productIds.includes(productId),
     }),
     {
-      name: 'maru-wishlist-v1',
+      name: 'vanitas-wishlist-v1',
       version: 1,
     },
   ),

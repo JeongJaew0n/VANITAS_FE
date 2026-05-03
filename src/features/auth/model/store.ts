@@ -19,7 +19,7 @@ export const useAuthStore = create<AuthState>()(
       logout: () => set({ token: null, user: null }),
     }),
     {
-      name: 'maru-auth-v1',
+      name: 'vanitas-auth-v1',
       version: 1,
     },
   ),

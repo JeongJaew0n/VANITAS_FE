@@ -46,7 +46,7 @@ export const handlers = [
     await delay(400);
     const response: LoginResponse = {
       token: 'mock-token',
-      user: { id: 1, name: 'MARU PLAYER', email: 'player@maru.shop' },
+      user: { id: 1, name: 'VANITAS PLAYER', email: 'player@vanitas.shop' },
     };
     return HttpResponse.json(response);
   }),

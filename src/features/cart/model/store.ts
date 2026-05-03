@@ -49,7 +49,7 @@ export const useCartStore = create<CartState>()(
       clear: () => set({ items: [] }),
     }),
     {
-      name: 'maru-cart-v1',
+      name: 'vanitas-cart-v1',
       version: 1,
     },
   ),

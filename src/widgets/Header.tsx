@@ -38,8 +38,8 @@ export function Header() {
       </div>
       <header className="header">
         <div className="header-inner">
-          <Link to="/" className="logo" aria-label="MARU.SHOP 홈">
-            MARU<span>.SHOP</span>
+          <Link to="/" className="logo" aria-label="VANITAS.SHOP 홈">
+            VANITAS<span>.SHOP</span>
           </Link>
           <form action={formAction} className="search-form" aria-label="상품 검색">
             <PixelInput

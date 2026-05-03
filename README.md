@@ -1,6 +1,6 @@
 # VANITAS_FE
 
-MARU.SHOP 게임 감성 흑백 파스텔톤 종합 쇼핑몰 프론트엔드입니다. `docs/init.md`와
+VANITAS.SHOP 게임 감성 흑백 파스텔톤 종합 쇼핑몰 프론트엔드입니다. `docs/init.md`와
 `docs/shopping_mall_game.html`을 기준으로 React 19 + TypeScript + Vite 앱을 구성했습니다.
 
 ## 실행

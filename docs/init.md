@@ -1,4 +1,4 @@
-# MARU.SHOP — 게임 감성 흑백 파스텔톤 종합 쇼핑몰 프론트엔드
+# VANITAS.SHOP — 게임 감성 흑백 파스텔톤 종합 쇼핑몰 프론트엔드
 
 종합 쇼핑몰(Amazon/Coupang류) 프론트엔드를 구축한다. 첨부한 `shopping_mall_game.html`이
 디자인 레퍼런스다. 이 HTML의 비주얼/레이아웃/인터랙션을 React 19 앱으로 재현한다.
@@ -222,7 +222,7 @@ placeholder 페이지는 "Coming Soon" + 헤더/푸터만 보이게.
 function HomePage() {
   return (
     <>
-      <title>MARU.SHOP — 오늘의 발견</title>
+      <title>VANITAS.SHOP — 오늘의 발견</title>
       <meta name="description" content="..." />
       {/* ... */}
     </>

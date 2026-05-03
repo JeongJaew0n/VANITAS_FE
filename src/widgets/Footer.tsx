@@ -37,7 +37,7 @@ export function Footer() {
         <div className="footer-top">
           <div className="footer-brand">
             <Link to="/" className="logo">
-              MARU<span>.SHOP</span>
+              VANITAS<span>.SHOP</span>
             </Link>
             <p>
               ▶ PRESS START TO SHOP.
@@ -47,7 +47,7 @@ export function Footer() {
               큐레이션의 기준을 다시 쓰는 종합 쇼핑 플랫폼.
             </p>
             <form className="newsletter" action={formAction}>
-              <input name="email" type="email" placeholder="EMAIL@MARU.SHOP" />
+              <input name="email" type="email" placeholder="EMAIL@VANITAS.SHOP" />
               <SubmitButton pendingLabel="...">JOIN</SubmitButton>
             </form>
             {state.message ? <p className="form-note">{state.message}</p> : null}
@@ -66,7 +66,7 @@ export function Footer() {
           ))}
         </div>
         <div className="footer-bottom">
-          <span>© 2026 MARU.SHOP — INSERT COIN TO CONTINUE</span>
+          <span>© 2026 VANITAS.SHOP — INSERT COIN TO CONTINUE</span>
           <div className="legal">
             <Link to="/">TERMS</Link>
             <Link to="/">PRIVACY</Link>

@@ -5,7 +5,7 @@ interface PlaceholderPageProps {
 export function PlaceholderPage({ title }: PlaceholderPageProps) {
   return (
     <main className="placeholder">
-      <title>MARU.SHOP — {title}</title>
+      <title>VANITAS.SHOP — {title}</title>
       <meta name="description" content={`${title} 페이지는 준비 중입니다.`} />
       <div className="placeholder-box">
         <h1>{title}</h1>
